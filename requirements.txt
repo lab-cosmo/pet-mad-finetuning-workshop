@@ -1,0 +1,4 @@
+pet-mad==1.4.3
+metatrain==2025.10
+ase==3.26.0
+jupyter
