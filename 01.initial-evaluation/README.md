@@ -18,8 +18,8 @@ This example shows how to evaluate the existing pre-trained PET-MAD model on two
    ```
 
 2. Write the `mtt eval` commands to evaluate the exported model on Li3PS4 and MAD datasets
-   and save the predictions to the corresponsing files. The paths to the datasets, as well as the
-   target to evaluate the model for will be written the in the `eval-options.yaml` file on the next
+   and save the predictions to the corresponding files. The paths to the datasets, as well as the
+   target to evaluate the model for, will be written in the `eval-options.yaml` file on the next
    step. For now, let's add the following lines to the `eval.sh` file:
 
    ```bash
